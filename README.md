@@ -37,7 +37,7 @@ El[ backend ](https://contacts-backend-d9ar.onrender.com " backend ")de la aplic
 | `DELETE /delete/:id*`   | **Elimina un empleado según su ID.**     |
 
 
-## Requisitos
+## Requisitos _
 
 ### Frontend
 
