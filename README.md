@@ -37,7 +37,7 @@ El[ backend ](https://contacts-backend-d9ar.onrender.com " backend ")de la aplic
 | `DELETE /delete/:id*`   | **Elimina un empleado según su ID.**     |
 
 
-## Requisitos _
+## Requisitos
 
 ### Frontend
 
@@ -60,7 +60,7 @@ El[ backend ](https://contacts-backend-d9ar.onrender.com " backend ")de la aplic
 
 1. Navega al directorio del frontend:
 
-    	bash
+    	bash  /c/crud/client/src
 		cd frontend
 		
 1. Instala las dependencias necesarias:
@@ -79,7 +79,7 @@ El[ backend ](https://contacts-backend-d9ar.onrender.com " backend ")de la aplic
 
 1. Navega al directorio del backend:
 
-    	bash
+    	bash   /c/crud/server
 		cd backend
 		
 1. Instala las dependencias necesarias:
@@ -92,7 +92,7 @@ El[ backend ](https://contacts-backend-d9ar.onrender.com " backend ")de la aplic
 
 4. Inicia el servidor:
 
-		node app.js
+		node index.js
 
 > ***El servidor estará disponible en http://localhost:3001.***
 
